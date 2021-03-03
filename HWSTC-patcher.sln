@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWSTC-patcher", "HWSTC-patcher\HWSTC-patcher.csproj", "{D6B2C752-42DE-4A5C-A871-652C21DBD1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B2C752-42DE-4A5C-A871-652C21DBD1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B2C752-42DE-4A5C-A871-652C21DBD1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B2C752-42DE-4A5C-A871-652C21DBD1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B2C752-42DE-4A5C-A871-652C21DBD1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7DF903F-9E91-48AC-B9DC-FBBD89ACE3D3}
+	EndGlobalSection
+EndGlobal
