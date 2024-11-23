@@ -1,3 +1,7 @@
+# Note
+I am not likely going to touch this project at this point. Feel free to fork.
+
+
 # HWSTC-patcher
 Aspect Ratio and Resolution Patcher for Hot Wheels: Stunt Track Challenge
 
